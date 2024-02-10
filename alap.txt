@@ -1,1 +1,2 @@
-Master branch első kommit C branch módosítás
+
+Master branch első kommit. Először volt C branch módosítás, majd B branch módosítás.
